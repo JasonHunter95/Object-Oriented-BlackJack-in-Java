@@ -1,0 +1,43 @@
+# Compiled class files
+*.class
+out/
+bin/
+build/
+target/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+*.code-workspace
+.metals/
+.bloop/
+.bsp/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Log files
+*.log
+
+# Package files
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*~
+
+# Backup files
+*.bak
